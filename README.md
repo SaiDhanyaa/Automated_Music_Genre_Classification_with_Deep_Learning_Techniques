@@ -71,7 +71,7 @@ These results demonstrate the model's capability to generalize across different 
 
 ## References
 
-1. **Dhanyapriya Somasundaram, Misha Seroukhov** - "Automated Music Genre Classification with Deep Learning Techniques," MIS 548, Eller College of Management, University of Arizona, Tucson, AZ. [PDF Link](./path/to/MIS_548_GROUP_4_REPORT.pdf)
+1. **Dhanyapriya Somasundaram, Misha Seroukhov** - "Automated Music Genre Classification with Deep Learning Techniques," MIS 548, Eller College of Management, University of Arizona, Tucson, AZ. [PDF Link](https://github.com/SaiDhanyaa/Automated_Music_Genre_Classification_with_Deep_Learning_Techniques/blob/master/RESEARCH%20PAPERS/Automated%20Music%20Genre%20Classification%20with%20Deep%20Learning%20Techniques.pdf)
 2. **G. Tzanetakis and P. Cook** - "Musical genre classification of audio signals," IEEE Transactions on Speech and Audio Processing, vol. 10, no. 5, pp. 293-302, July 2002. [DOI](https://doi.org/10.1109/TSA.2002.800560)
 3. **K. Zaman, M. Sah, C. Direkoglu and M. Unoki** - "A Survey of Audio Classification Using Deep Learning," IEEE Access, vol. 11, pp. 106620-106649, 2023. [DOI](https://doi.org/10.1109/ACCESS.2023.3318015)
 4. **W. Zhu and M. Omar** - "Multiscale Audio Spectrogram Transformer for Efficient Audio Classification," ICASSP 2023. [DOI](https://doi.org/10.1109/ICASSP49357.2023.10096513)
